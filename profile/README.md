@@ -21,7 +21,7 @@ Korean FE Article Team 입니다.
 * 안샛별 (네이버 프런트엔드 개발자, [블로그](https://velog.io/@typo/posts))
 * 임유진 (인프랩 프런트엔드 개발자, [블로그](https://emewjin.github.io/))
 * 김태현 (이스트소프트 프런트엔드 개발자, [블로그](https://velog.io/@tap_kim/about))
-* 김재원 (당근 프런트엔드 개발자, [블로그](https://devjaewon.com/posts))
+* 김재원 (당근 프런트엔드 개발자, [블로그](https://philip21.dev/posts))
 
 ## Korean FE Article 토스로 후원하기
 
