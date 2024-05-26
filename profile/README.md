@@ -16,12 +16,12 @@ Korean FE Article Team 입니다.
 * 유경상 (컬리 프런트엔드 개발자, [블로그](https://ykss.netlify.app/))
 * 손수림 (라인플러스 프런트엔드 개발자, [블로그](https://velog.io/@surim014))
 * 김찬희 (라인플러스 프런트엔드 개발자, [블로그](https://velog.io/@superlipbalm/posts))
-* 박수빈 (카카오 프런트엔드 개발자, [블로그](https://soobing.github.io/posts))
 * 서보현 (메디스트림 프런트엔드 개발자, [블로그](https://ktseo41.github.io/blog/))
 * 안샛별 (네이버 프런트엔드 개발자, [블로그](https://velog.io/@typo/posts))
 * 임유진 (인프랩 프런트엔드 개발자, [블로그](https://emewjin.github.io/))
 * 김태현 (이스트소프트 프런트엔드 개발자, [블로그](https://velog.io/@tap_kim/about))
 * 김재원 (당근 프런트엔드 개발자, [블로그](https://philip21.dev/posts))
+* 이시연 (파트리지시스템즈 프런트엔드 개발자, [블로그](https://medium.com/@rickiricki))
 
 ## Korean FE Article 토스로 후원하기
 
