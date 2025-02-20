@@ -22,6 +22,7 @@ Korean FE Article Team 입니다.
 * 이시연 (파트리지시스템즈 프런트엔드 개발자, [블로그](https://medium.com/@ricki-lee))
 * 최지우 (네이버 프런트엔드 개발자, [블로그](https://medium.com/@jiwoochoics))
 * 조영제 (두나무 프런트엔드 개발자, [블로그](https://siosio3103.medium.com/))
+* 유승완 (토스플레이스 프런트엔드 개발자, [블로그](https://imnotadevleoper.tistory.com/))
 
 ## Korean FE Article 토스로 후원하기
 
