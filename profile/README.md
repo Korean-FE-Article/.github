@@ -34,9 +34,11 @@ Korean FE Article Team 입니다.
 
 🫶 활동을 후원해 주시면 감사의 의미로 메일 하단, 저장소 하단에 프로필 링크(ex. github, x 등..)를 노출하려 합니다. 만약 원하신다면 후원 후 hanjungv@gmail.com로 연락 부탁드립니다. 이미 후원해 주셨다면, 계정을 담아 메일로 연락해 주시면 너무너무 감사하겠습니다.
 
-## 후원 감사합니다 😍
+## 후원자 명단 🫶 
 
-[강주혁](https://github.com/kangju2000)
+[강주혁](https://github.com/kangju2000)님
+
+활동을 후원해 주시면 감사의 의미로 메일 하단, 저장소 하단에 프로필 링크(ex. github, x 등..)를 노출합니다. 후원 후 hanjungv@gmail.com로 연락 부탁드립니다. 
 
 ## 거쳐 가신 분들
 
