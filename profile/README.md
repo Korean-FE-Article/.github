@@ -34,6 +34,10 @@ Korean FE Article Team 입니다.
 
 🫶 활동을 후원해 주시면 감사의 의미로 메일 하단, 저장소 하단에 프로필 링크(ex. github, x 등..)를 노출하려 합니다. 만약 원하신다면 후원 후 hanjungv@gmail.com로 연락 부탁드립니다. 이미 후원해 주셨다면, 계정을 담아 메일로 연락해 주시면 너무너무 감사하겠습니다.
 
+## 후원 감사합니다 😍
+
+[강주혁](https://github.com/kangju2000)
+
 ## 거쳐 가신 분들
 
 [육지수](https://medium.com/@yujso66) / [이강엽](https://velog.io/@lky5697/posts) / [박종훈](https://velog.io/@jonghunbok/posts) / [조성동](https://github.com/doong-jo) / [복다훈](https://velog.io/@dev_boku/posts) / [구민정](https://velog.io/@cookie004/posts) / [연주안](https://github.com/yeonjuan/dev-blog) / [박수빈](https://soobing.github.io/posts) / [김재원](https://philip21.dev/) / [서보현](https://ktseo41.github.io/blog/)
