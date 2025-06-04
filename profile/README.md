@@ -34,7 +34,7 @@ Korean FE Article Team 입니다.
 
 ## 후원자 명단 🫶 
 
-[강주혁](https://github.com/kangju2000)님
+[강주혁](https://github.com/kangju2000)님, [황태환](https://github.com/stakbucks)님, [김관식](https://github.com/gwansikk)님
 
 활동을 후원해 주시면 감사의 의미로 메일 하단, 저장소 하단에 프로필 링크(ex. github, x 등..)를 노출합니다. 후원 후 hanjungv@gmail.com로 연락 부탁드립니다. 
 
