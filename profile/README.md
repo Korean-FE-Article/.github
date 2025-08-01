@@ -19,7 +19,7 @@ Korean FE Article Team 입니다.
 * 안샛별 (네이버 프런트엔드 개발자, [블로그](https://velog.io/@typo/posts))
 * 임유진 (당근 프런트엔드 개발자, [블로그](https://emewjin.github.io/))
 * 김태현 (이스트소프트 프런트엔드 개발자, [블로그](https://velog.io/@tap_kim/about))
-* 이시연 (파트리지시스템즈 프런트엔드 개발자, [블로그](https://medium.com/@ricki-lee))
+* 이시연 (카카오페이 프런트엔드 개발자, [블로그](https://medium.com/@ricki-lee))
 * 최지우 (네이버 프런트엔드 개발자, [블로그](https://medium.com/@jiwoochoics))
 * 조영제 (두나무 프런트엔드 개발자, [블로그](https://siosio3103.medium.com/))
 * 정재남 (네이버 프런트엔드 개발자, [블로그](https://roy-jung.github.io/))
