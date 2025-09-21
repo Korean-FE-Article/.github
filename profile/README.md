@@ -12,7 +12,6 @@ Korean FE Article Team 입니다.
 ## 멤버
 * 한정 (라인플러스 프런트엔드 개발자, [블로그](https://medium.com/@junghan92))
 * 황세현 (라인플러스 프런트엔드 개발자, [블로그](https://velog.io/@sehyunny))
-* 김은빈 (라인플러스 프런트엔드 개발자, [블로그](https://velog.io/@eunbinn))
 * 유경상 (42dot 프런트엔드 개발자, [블로그](https://ykss.netlify.app/))
 * 손수림 (라인페이플러스 프런트엔드 개발자, [블로그](https://velog.io/@surim014))
 * 김찬희 (라인플러스 프런트엔드 개발자, [블로그](https://velog.io/@superlipbalm/posts))
@@ -22,9 +21,10 @@ Korean FE Article Team 입니다.
 * 이시연 (카카오페이 프런트엔드 개발자, [블로그](https://medium.com/@ricki-lee))
 * 최지우 (네이버 프런트엔드 개발자, [블로그](https://medium.com/@jiwoochoics))
 * 조영제 (두나무 프런트엔드 개발자, [블로그](https://siosio3103.medium.com/))
-* 정재남 (네이버 프런트엔드 개발자, [블로그](https://roy-jung.github.io/))
 * 이해나 (플렉스 프런트엔드 개발자, [블로그](https://hanameee.github.io/))
 * 유승완 (토스플레이스 프런트엔드 개발자, [블로그](https://imnotadevleoper.tistory.com/))
+* 오원종 (오버데어 프런트엔드 개발자, [블로그](https://devowen.com/))
+* 손정현 (카카오뱅크 프런트엔드 개발자, [블로그](https://handhand.tistory.com/))
 
 ## Korean FE Article 토스로 후원하기
 
@@ -34,10 +34,8 @@ Korean FE Article Team 입니다.
 
 ## 후원자 명단 🫶 
 
-[강주혁](https://github.com/kangju2000)님, [황태환](https://github.com/stakbucks)님, [김관식](https://github.com/gwansikk)님
-
-활동을 후원해 주시면 감사의 의미로 메일 하단, 저장소 하단에 프로필 링크(ex. github, x 등..)를 노출합니다. 후원 후 hanjungv@gmail.com로 연락 부탁드립니다. 
+[강주혁](https://github.com/kangju2000)님, [황태환](https://github.com/stakbucks)님, [김관식](https://github.com/gwansikk)님, [한정수](https://www.integer.blog/)님
 
 ## 거쳐 가신 분들
 
-[육지수](https://medium.com/@yujso66) / [이강엽](https://velog.io/@lky5697/posts) / [박종훈](https://velog.io/@jonghunbok/posts) / [조성동](https://github.com/doong-jo) / [복다훈](https://velog.io/@dev_boku/posts) / [구민정](https://velog.io/@cookie004/posts) / [연주안](https://github.com/yeonjuan/dev-blog) / [박수빈](https://soobing.github.io/posts) / [김재원](https://philip21.dev/) / [서보현](https://ktseo41.github.io/blog/)
+[육지수](https://medium.com/@yujso66) / [이강엽](https://velog.io/@lky5697/posts) / [박종훈](https://velog.io/@jonghunbok/posts) / [조성동](https://github.com/doong-jo) / [복다훈](https://velog.io/@dev_boku/posts) / [구민정](https://velog.io/@cookie004/posts) / [연주안](https://github.com/yeonjuan/dev-blog) / [박수빈](https://soobing.github.io/posts) / [김재원](https://philip21.dev/) / [서보현](https://ktseo41.github.io/blog/) / [김은빈](https://velog.io/@eunbinn) / [정재남](https://roy-jung.github.io/)
