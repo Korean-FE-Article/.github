@@ -12,7 +12,7 @@ Korean FE Article Team 입니다.
 ## 멤버
 * 한정 (라인플러스 프런트엔드 개발자, [블로그](https://medium.com/@junghan92))
 * 황세현 (라인플러스 프런트엔드 개발자, [블로그](https://velog.io/@sehyunny))
-* 유경상 (42dot 프런트엔드 개발자, [블로그](https://ykss.netlify.app/))
+* 유경상 (유모스원 프런트엔드 개발자, [블로그](https://ykss.netlify.app/))
 * 손수림 (라인페이플러스 프런트엔드 개발자, [블로그](https://velog.io/@surim014))
 * 김찬희 (라인플러스 프런트엔드 개발자, [블로그](https://velog.io/@superlipbalm/posts))
 * 안샛별 (네이버 프런트엔드 개발자, [블로그](https://velog.io/@typo/posts))
